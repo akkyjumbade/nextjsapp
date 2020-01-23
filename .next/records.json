@@ -1,0 +1,55 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "framework": 2,
+      "209c7e8db10eae9e4aebd1db78b1c24df879a580": 3,
+      "static/runtime/main.js": 4,
+      "static/runtime/polyfills.js": 5,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\Home.js": 6,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\_app.js": 7,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\_error.js": 8,
+      "930060aff26f120547a4f9b7587d2e5ce87d3270": 9,
+      "5d46441649ef734c6d2f5cf59dc0c12525da410e": 10,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\About.js": 11,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Auth.js": 12,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Home.js": 13,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Preferences.js": 14,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Profile.js": 15,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\_app.js": 16,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\_error.js": 17,
+      "b4e965308d6c9bd61fb4aa6bfbc7f41fd07e03b8": 1,
+      "d35e3a72605f607019baab34ce4e5d81728334d7": 3,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\About.js": 6,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\Auth.js": 7,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\Preferences.js": 8,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\Profile.js": 18,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\_app.js": 19,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\_error.js": 20,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\home.js": 21,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\index.js": 22
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      18,
+      19,
+      2,
+      20,
+      21,
+      22,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

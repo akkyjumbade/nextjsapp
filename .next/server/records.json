@@ -1,0 +1,72 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/Home.js": 0,
+      "multi next/dist/pages/_app": 1,
+      "multi next/dist/pages/_error": 2,
+      "multi next/dist/pages/_document": 3,
+      "multi private-next-pages/About.js": 4,
+      "multi private-next-pages/Auth.js": 5,
+      "multi private-next-pages/Preferences.js": 6,
+      "multi private-next-pages/Profile.js": 7,
+      "multi private-next-pages/api/auth.js": 0,
+      "multi private-next-pages/home.js": 8,
+      "multi private-next-pages/index.js": 9
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\Home.js": 2,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\_app.js": 3,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\_document.js": 4,
+      "static\\38cC8d46NNoYR893gSu1V\\pages\\_error.js": 5,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\About.js": 6,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Auth.js": 7,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Home.js": 8,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Preferences.js": 9,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\Profile.js": 10,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\_app.js": 11,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\_document.js": 12,
+      "static\\0WagnSbRT_yekphTm_4sw\\pages\\_error.js": 13,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\About.js": 2,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\Auth.js": 3,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\Preferences.js": 4,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\Profile.js": 5,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\_app.js": 14,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\_document.js": 15,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\_error.js": 16,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\api\\auth.js": 17,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\home.js": 18,
+      "static\\EWRdvliTREWtS3Q85SAvY\\pages\\index.js": 19
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

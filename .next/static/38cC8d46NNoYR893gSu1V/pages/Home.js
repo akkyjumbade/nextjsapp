@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{hE1E:function(n,e,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Home",function(){return o("zldw")}])},zldw:function(n,e,o){"use strict";o.r(e);var t=o("q1tI"),w=o.n(t),u=w.a.createElement;w.a.memo((function(n){return u(w.a.Fragment,null)}))}},[["hE1E",0,2,1]]]);

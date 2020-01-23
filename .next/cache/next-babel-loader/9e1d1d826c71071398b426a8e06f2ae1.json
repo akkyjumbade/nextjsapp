@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nconst About = React.memo(props => {\n  return __jsx(React.Fragment, null, __jsx(\"h1\", null, \"About\"));\n});\nexport default About;","map":null,"metadata":{},"sourceType":"module"}

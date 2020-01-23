@@ -1,0 +1,22 @@
+CREATE TABLE users (
+   id INT PRIMARY KEY AUTO_INCREMENT,
+   uuid VARCHAR(190),
+   first_name VARCHAR(190),
+   middle_name VARCHAR(190) DEFAULT NULL,
+   last_name VARCHAR(190) DEFAULT NULL,
+   avatar VARCHAR(190),
+   email VARCHAR(190),
+   phone VARCHAR(190),
+   email_verified VARCHAR(190),
+   phone_verified VARCHAR(190),
+   gender VARCHAR(20),
+   birth_date DATE NULL,
+   `status` VARCHAR(20),
+   `role` VARCHAR(100),
+   about VARCHAR(190),
+   remember_token VARCHAR(190),
+   created_at TIMESTAMP DEFAULT NOW(),
+   updated_at TIMESTAMP NULL,
+   last_login_at TIMESTAMP DEFAULT NOW(),
+   country VARCHAR(190) DEFAULT NULL
+)
